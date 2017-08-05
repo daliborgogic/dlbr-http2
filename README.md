@@ -1,6 +1,8 @@
 # dlbr-http2
 
-Vue 2.0 + vue-router + vuex, http2, server-side rendering.
+Vue 2.0 + vue-router + vuex, server-side rendering.
+
+> The initial experimental implementation of HTTP/2.
 
 ### Requires Node.js v9.0.0-pre
 
